@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center"><img height="40" src="./assets/kyubey.gif"/>A passionate student learning Web Development<img height="40" src="./assets/kyubey.gif"/></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkathrine&label=Profile%20views&color=blueviolet&style=flat" alt="dkathrine" /> </p>
-<p align="center"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="200"> </p>
+<p align="center"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400"> </p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
