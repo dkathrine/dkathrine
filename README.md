@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkathrine&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="dkathrine" /></p>
 
+<!-- Top Languages thingy
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkathrine&layout=compact&theme=tokyonight&langs_count=4&count_private=true" alt="dkathrine" /></p>
+-->
