@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kathrine</h1>
-<h3 align="center"><img height="40" src="./assets/kyubey.gif"/>A passionate student learning Web Development<img height="40" src="./assets/kyubey.gif"/></h3>
+<h3 align="center"><img height="40" src="./assets/kyubey.gif"/>A passionate Junior Web Developer<img height="40" src="./assets/kyubey.gif"/></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkathrine&label=Profile%20views&color=blueviolet&style=flat" alt="dkathrine" /> </p>
 
