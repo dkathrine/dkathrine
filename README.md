@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kathrine</h1>
 <h3 align="center"><img height="40" src="./assets/kyubey.gif"/>A passionate Junior Web Developer<img height="40" src="./assets/kyubey.gif"/></h3>
 
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkathrine&label=Profile%20views&color=blueviolet&style=flat" alt="dkathrine" /> </p>
-
+-->
 
 <!--
 <p align="center"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="400"> </p>
